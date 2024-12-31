@@ -5,7 +5,7 @@ Overview of my professional qualifications
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/Amateua)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=flat)](www.linkedin.com/in/матвій-тороп-619932343)
 
-# My knowledge base
+## My knowledge base
 
 ### Active skill training and improvement
 - C#, .Net platform
@@ -19,9 +19,16 @@ Overview of my professional qualifications
 - __Databases__: MSSQL, MySQL, SQLite, MongoDB, neo4j
 - __Technical tools__: Word, Excel, OneNote, Microsoft To-Do, Notion, WampServer
 
-# Main projects
+## Main projects
 - [Sudoku Game](): WF project with usage of different design patterns, programming principles, practices and refactoring methodics
 - [Patterns repository](): C# projects with patterns from generative to behavioural
 - [Car sales website](): PHP project with developed <ins>CMS system</ins> and <ins>MVC pattern</ins>, <ins>async JavaScript</ins> functions, <ins>self-developed</ins> MYSQL <ins>database</ins>, <ins>CSS</ins> and <ins>HTML</ins> usage
 - [HR department database](): Database with visualisation using WF, that has access levels, different functionality for reading and managing data 
 - Mini-projects/labs: Small works of varying complexity related to programming languages such as [Java](), [Python](), [C#/.NET](), [PHP](), [React]() 
+
+## Education
+- [] 2022-2026: Zhytomyr Polytechnic State University, Software Engineer
+- [x] 2018-2021: Programming school [Logika]()
+- [x] [MongoDB Certification]()
+- [x] [SQL Sertification]
+- [x] [Python Certification]()
