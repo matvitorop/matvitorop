@@ -20,14 +20,14 @@ Overview of my professional qualifications
 - __Technical tools__: Word, Excel, OneNote, Microsoft To-Do, Notion, WampServer
 
 ## Main projects
-- [Sudoku Game](): WF project with usage of different design patterns, programming principles, practices and refactoring methodics
-- [Patterns repository](): C# projects with patterns from generative to behavioural
+- [Sudoku Game](https://github.com/matvitorop/Game-Sudoku): WF project with usage of different design patterns, programming principles, practices and refactoring methodics
+- [Patterns repository](https://github.com/matvitorop/SD_Torop_IPZ_22_4): C# projects with patterns from generative to behavioural
 - [Car sales website](): PHP project with developed <ins>CMS system</ins> and <ins>MVC pattern</ins>, <ins>async JavaScript</ins> functions, <ins>self-developed</ins> MYSQL <ins>database</ins>, <ins>CSS</ins> and <ins>HTML</ins> usage
 - [HR department database](): Database with visualisation using WF, that has access levels, different functionality for reading and managing data 
 - Mini-projects/labs: Small works of varying complexity related to programming languages such as [Java](), [Python](), [C#/.NET](), [PHP](), [React]() 
 
 ## Education
-- [] 2022-2026: Zhytomyr Polytechnic State University, Software Engineer
+- [ ] 2022-2026: Zhytomyr Polytechnic State University, Software Engineer
 - [x] 2018-2021: Programming school [Logika]()
 - [x] [MongoDB Certification]()
 - [x] [SQL Sertification]
