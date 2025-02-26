@@ -14,15 +14,17 @@ Overview of my professional qualifications
 - Figma
 
 ### Existing skills
-- __Languages__: Java, C#, PHP, Python, JavaScript, HTML, CSS, Node
-- __Libraries/Frameworks__: React, Flask, Spring, Bootstrap, Dapper
-- __Databases__: MSSQL, MySQL, SQLite, MongoDB, neo4j
-- __Technical tools__: Word, Excel, OneNote, Microsoft To-Do, Notion, WampServer
+- __Languages__: `Java`, `C#`, `PHP`, `Python`, `JavaScript`, `HTML`, `CSS`, `Node`
+- __Libraries/Frameworks__: `React`, `Flask`, `Spring`, `Bootstrap`, `Dapper`, `.NET`, `ASP.NET`
+- __Databases__: `MSSQL`, `MySQL`, `SQLite`, `MongoDB`, `neo4j`
+- __Technical tools__: `Word`, `Excel`, `OneNote`, `Microsoft To-Do`, `Notion`, `WampServer`
 
 ## :black_nib: Main projects
 - [Sudoku Game](https://github.com/matvitorop/Game-Sudoku): WF project with usage of different design patterns, programming principles, practices and refactoring methodics
 - [Patterns repository](https://github.com/matvitorop/SD_Torop_IPZ_22_4): C# projects with patterns from generative to behavioural
 - [Car sales website](https://gitlab.com/toropmatvii/backend_development/backend_coursework): PHP project with developed <ins>CMS system</ins> and <ins>MVC pattern</ins>, <ins>async JavaScript</ins> functions, <ins>self-developed</ins> MYSQL <ins>database</ins>, <ins>CSS</ins> and <ins>HTML</ins> usage
+- [Task manager](https://github.com/matvitorop/todo-list-enh): The project I'm working on is a combination of the `ASP.NET Web API` server side and the `React + Typescript + MUI` client side. The project is collaborative and aims to improve my skills in creating full-fledged projects, deepen my knowledge of `.NET` and `React`, and improve my own portfolio.
+- [Slot machine](https://github.com/matvitorop/oblivion-place): This project is similar to the task manager, but its main goal was to create complete documentation for the project (`Readme`, `Privacy Policy`, `licenses`, `Storybook`, `api documentation` and `generated documentation` by typedoc, support for `Cookie Popup` and `GDPR`)
 - [HR department database](https://gitlab.com/toropmatvii/kursova2_toropmatvii_2023): Database with visualisation using WF, that has access levels, different functionality for reading and managing data 
 - Mini-projects/labs: Small works of varying complexity related to programming languages such as [Java](https://github.com/matvitorop/java-reps), [Python](https://github.com/matvitorop/python-reps), [C#/.NET](https://github.com/matvitorop/.NetCore-reps), [PHP](https://github.com/matvitorop/php-reps), [React](https://github.com/matvitorop/react-reps) 
 
