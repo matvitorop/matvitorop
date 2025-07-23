@@ -10,12 +10,11 @@ Overview of my professional qualifications
 ### Active skill training and improvement
 - C#, .Net platform
 - React
-- Java
 - Figma
 
 ### Existing skills
-- __Languages__: `Java`, `C#`, `PHP`, `Python`, `JavaScript`, `HTML`, `CSS`, `Node`
-- __Libraries/Frameworks__: `React`, `Flask`, `Spring`, `Bootstrap`, `Dapper`, `.NET`, `ASP.NET`
+- __Languages__: `C#`, `JavaScript`, `Java`, `PHP`, `Python`, `HTML`, `CSS`, `Node`
+- __Libraries/Frameworks__: `React`, `Flask`, `Spring`, `Bootstrap`, `Dapper`, `ASP.NET`, `RxJS`, `GraphQL`, `Redux` 
 - __Databases__: `MSSQL`, `MySQL`, `SQLite`, `MongoDB`, `neo4j`
 - __Technical tools__: `Word`, `Excel`, `OneNote`, `Microsoft To-Do`, `Notion`, `WampServer`
 
