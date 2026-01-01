@@ -19,6 +19,7 @@ Overview of my professional qualifications
 - __Technical tools__: `Word`, `Excel`, `OneNote`, `Microsoft To-Do`, `Notion`, `WampServer`
 
 ## :black_nib: Main projects
+- [Calories Tracker](https://github.com/matvitorop/pfc-calc): The project was written by a full-fledged team of three people and developed with the aim of studying the technology stack and teamwork. The project includes the development of the server and client parts using C# and React, as well as tools such as `FatSecretApi`, `Dapper`, `Redux`, `rxjs`, and `redux-observables`.
 - [Task manager](https://github.com/matvitorop/todo-list-enh): The project I'm working on is a combination of the `ASP.NET Web API` server side and the `React + Typescript + MUI` client side. The project is collaborative and aims to improve my skills in creating full-fledged projects, deepen my knowledge of `.NET` and `React`, and improve my own portfolio.
 - [Slot machine](https://github.com/matvitorop/oblivion-place): This project is similar to the task manager, but its main goal was to create complete documentation for the project (`Readme`, `Privacy Policy`, `licenses`, `Storybook`, `api documentation` and `generated documentation` by typedoc, support for `Cookie Popup` and `GDPR`)
 - [Car sales website](https://gitlab.com/toropmatvii/backend_development/backend_coursework): PHP project with developed <ins>CMS system</ins> and <ins>MVC pattern</ins>, <ins>async JavaScript</ins> functions, <ins>self-developed</ins> MYSQL <ins>database</ins>, <ins>CSS</ins> and <ins>HTML</ins> usage
